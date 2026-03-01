@@ -31,7 +31,7 @@ export default function Hero() {
           className="text-gray-400 mb-8 text-lg leading-relaxed"
         >
           I specialize in transforming raw data into meaningful insights using 
-          <span className="text-white font-medium"> Python, SQL, Power BI, and Machine Learning</span>.  
+          <span className="text-white font-medium"> Python, SQL, Power BI,Excel</span>.  
           Passionate about building predictive models and interactive dashboards 
           that drive data-informed decision making.
         </motion.p>

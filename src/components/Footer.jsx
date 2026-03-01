@@ -14,7 +14,7 @@ export default function Footer() {
         >
           <h2 className="text-2xl font-bold mb-4">Kuruba Teja</h2>
           <p className="text-gray-400">
-            Data Analyst specializing in Python, SQL, Power BI, and Machine Learning.
+            Data Analyst specializing in Python, SQL, Power BI,Excel.
             Transforming complex data into actionable business insights.
           </p>
         </motion.div>
