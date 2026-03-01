@@ -21,7 +21,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-xl md:text-3xl font-semibold mb-6 text-gray-300"
         >
-          Data Analyst • Machine Learning Enthusiast • Dashboard Developer
+          Data Analyst • Business Analysis • Mis Executive • Analyst • Dashboard Developer
         </motion.h2>
 
         <motion.p
